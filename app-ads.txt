@@ -1,9 +1,3 @@
-
 # Archivo app-ads.txt de la app "MercadoLocal"
 # Declaración de vendedores autorizados para publicidad
-
 google.com, pub-4101812627074265, DIRECT, f08c47fec0942fa0
-
-# Información adicional (opcional, formato IAB 1.1)
-OWNERDOMAIN=https://israelconcardenas-sys.github.io/app-ads.txt
-CONTACT=israelconcardenas@gmail.com
